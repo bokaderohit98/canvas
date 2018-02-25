@@ -1,0 +1,9 @@
+
+#loader{
+	display: block;
+	margin: auto;
+}
+
+div.loader{
+	height: 200px;
+}
